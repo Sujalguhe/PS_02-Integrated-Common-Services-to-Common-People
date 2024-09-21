@@ -69,4 +69,3 @@ for this extract all the files in htdocs in Xampp.
 ## Contribution 🚀
 * [Sujal_Guhe](https://github.com/Sujalguhe) 
 * [Mrunali_Yawale](https://github.com/yawalemrunali)
-* [Samiksha_More](https://github.com/samikshamore2004)
